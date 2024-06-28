@@ -1,2 +1,2 @@
 # myfirstproject
-Sample description of project
+Sample description of project - updated.
